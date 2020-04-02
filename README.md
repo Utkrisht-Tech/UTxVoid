@@ -1,2 +1,2 @@
 # UTxVoid
-Ultimately Fast, Headless, Futuristic, Open Source publishing platform powered with xQuantico (For Now Golang).
+Super Fast and Open Source, API Gateway powered with futuristic xQuantico (For Now Golang).
